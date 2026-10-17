@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Age-18-blueviolet?style=flat" alt="Age" />
   <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-orange?style=flat" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20To%20Collaborate-Yes-brightgreen?style=flat" alt="Open to Collaborate" />
+  <a href="mailto:prajwalkhadkcr7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prajwalkhadkcr7%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -19,10 +22,10 @@
 ### 🚀 About Me
 
 - ⚡ **18-year-old developer from India** diving deep into every corner of technology.
-- 💡 **Versatile Learner**: Into Full-Stack Web Development, Machine Learning, Automation, System Architecture, and Scripting.
+- 🎓 **Student & Builder**: Exploring Full-Stack Development, Machine Learning, Automation, and System Architecture.
 - 🛠️ **Tech Playground**: Java, Python, JavaScript, Selenium, TestNG, PyTorch, SQL, Linux & Git.
 - 🎯 **Philosophy**: Don't limit yourself to one stack — understand how things work end-to-end and build cool stuff that works.
-- 💬 Ask me about anything tech, project collaborations, or hackathons!
+- 💬 Reach out for collaborations, hackathons, or open-source projects!
 
 ---
 
@@ -98,14 +101,14 @@
 
 ---
 
-### 🤝 Let's Connect!
+### 📬 Get In Touch
 
 <p align="center">
-  <a href="https://github.com/prajwalkkhadka-cpu">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="mailto:prajwalkhadkcr7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-prajwalkhadkcr7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/prajwalkkhadka">
-    <img src="https://img.shields.io/badge/Secondary_Account-prajwalkkhadka-24292e?style=for-the-badge&logo=github" alt="Secondary GitHub" />
+  <a href="https://github.com/prajwalkkhadka-cpu">
+    <img src="https://img.shields.io/badge/GitHub-prajwalkkhadka--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
