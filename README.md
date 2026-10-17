@@ -1,31 +1,32 @@
 <h1 align="center">Hi there, I'm Prajwal Khadka 👋</h1>
-<h3 align="center">Software Development Engineer in Test (SDET) & Full-Stack Developer</h3>
+<h3 align="center">18 y/o Developer & Tech Enthusiast | Into Everything Code, AI & Automation</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+SDET;Test+Automation+Architect+(Selenium%2C+TestNG);Python+%26+Machine+Learning+Enthusiast;Building+Robust+%26+Scalable+Solutions">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+SDET;Test+Automation+Architect+(Selenium%2C+TestNG);Python+%26+Machine+Learning+Enthusiast;Building+Robust+%26+Scalable+Solutions" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=18+y%2Fo+Passionate+Builder;Full-Stack+%26+Automation+Enthusiast;Exploring+AI%2C+Deep+Learning+%26+Systems;Always+Curious%2C+Always+Shipping+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=18+y%2Fo+Passionate+Builder;Full-Stack+%26+Automation+Enthusiast;Exploring+AI%2C+Deep+Learning+%26+Systems;Always+Curious%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prajwalkkhadka-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen?style=flat" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Nepal-orange?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Age-18-blueviolet?style=flat" alt="Age" />
+  <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-orange?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20To%20Collaborate-Yes-brightgreen?style=flat" alt="Open to Collaborate" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Passionate about **Software Quality, Test Automation Architecture, and Deep Learning**.
-- 🛠️ Experienced with **Java enterprise ecosystems, Selenium WebDriver, TestNG, Cucumber BDD**, and **Maven**.
-- 🔬 Developing data-driven pipelines and machine learning architectures using **Python, PyTorch, and RDKit**.
-- 🎯 Dedicated to writing clean, maintainable, and well-documented modular code.
-- 💬 Ask me about **Automation Testing, QA Frameworks, Java, Python, and CI/CD**.
+- ⚡ **18-year-old developer from India** diving deep into every corner of technology.
+- 💡 **Versatile Learner**: Into Full-Stack Web Development, Machine Learning, Automation, System Architecture, and Scripting.
+- 🛠️ **Tech Playground**: Java, Python, JavaScript, Selenium, TestNG, PyTorch, SQL, Linux & Git.
+- 🎯 **Philosophy**: Don't limit yourself to one stack — understand how things work end-to-end and build cool stuff that works.
+- 💬 Ask me about anything tech, project collaborations, or hackathons!
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ What I Work With
 
 <div align="center">
 
@@ -48,7 +49,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### ⚙️ Developer Tools & DevOps
+#### ⚙️ Developer Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -69,12 +70,7 @@
         <img src="https://img.shields.io/badge/Python-PyTorch-red?style=flat-square" />
         <img src="https://img.shields.io/badge/RDKit-Cheminformatics-green?style=flat-square" />
       </p>
-      <p>A production-ready deep learning pipeline predicting molecular properties from SMILES strings with Morgan fingerprints, custom MLP architectures, and regression metrics.</p>
-      <ul>
-        <li>RDKit validation & preprocessing</li>
-        <li>Custom PyTorch training loop & early stopping</li>
-        <li>RMSE, MAE, R² evaluation</li>
-      </ul>
+      <p>A deep learning pipeline predicting molecular properties from chemical SMILES strings with Morgan fingerprints, custom PyTorch MLP, and full regression metrics.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📚 <a href="https://github.com/prajwalkkhadka-cpu/smart-library">Smart Library System</a></h3>
@@ -82,12 +78,7 @@
         <img src="https://img.shields.io/badge/Java-11+-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Maven-Gson-blue?style=flat-square" />
       </p>
-      <p>A complete Java CLI application for library administration featuring book inventory management, member tracking, loan rules, automated fine calculation, and JSON persistence.</p>
-      <ul>
-        <li>Auto fine computing (₹5/day)</li>
-        <li>Interactive ASCII UI with ANSI colors</li>
-        <li>Gson-backed storage engine</li>
-      </ul>
+      <p>A full-featured Java CLI app for library administration with book inventory, member registration, automated late fines, and JSON data persistence.</p>
     </td>
   </tr>
 </table>
@@ -118,4 +109,4 @@
   </a>
 </p>
 
-<p align="center"><i>⚡ "Writing clean, tested, and high-impact code every single day."</i></p>
+<p align="center"><i>⚡ "Age is just a number — curiosity and consistency build the future."</i></p>
